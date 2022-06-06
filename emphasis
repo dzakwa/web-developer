@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+	<head>
+		<title>emphasis</title>
+	</head>
+	
+	<body>
+			<h1>My favorite things</h1>
+		<p>
+			Raindrops on <em>roses</em><br>
+			Whiskers on kittens<br>
+			bright copper kettles<br>
+			Warm woolen mittens
+		</p>
+	</body>
+
+</html>
