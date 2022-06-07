@@ -1,0 +1,245 @@
+With buttons, programs change webpages
+based on user behavior. For example, clicking
+Next can run that cycles through
+characters.
+
+We''l learn how to write that code later. For
+now, we'll focus on the button element.
+...
+To create a button users can click on, we need 
+the opening <button> and closing 
+</button> tags.
+-
+index.html
+-
+<!doctype.html>
+<html>
+	<body>
+		<p>Subscribe to our Newsletter</p>
+		<button>Subscrice</button>
+	</body>
+</html>
+...
+Writing text like login between the tags
+changes the text appearing on the button..
+-
+index.html
+-
+<!doctype html>
+<html>
+
+	<body>
+			<h1>facebook</h1>
+		<p>Log in to your account toge started</p>
+		<button>login</button>
+	</body>
+
+</html>
+...
+Using other elements, like
+<strong>continur anyway</strong, inside
+the button element can give a button a bit
+of stlyle.
+-
+index.html
+-
+<!doctype html>
+<html>
+
+	<body>
+			<h3>Warning</h3>
+		<p>This site contains humor that may couse<br> 
+		uncontrollable laugter</p>
+		<button><strong>continue anyway</strong></button>
+	</body>
+
+</html>
+...
+Buttons display next each other even if
+they're on separate lines of code. place these
+buttons displaying First, Second, then
+Third.
+-
+index.html
+-
+<!doctype html>
+<html>
+
+	<body>
+		<button>First</button>
+		<button>Second</button>
+		<button>Third</button>
+	</body>
+
+</html>
+...
+if we want buttons to stack on top of each
+other, we can use the <br> tag to place each
+button on a new line.
+-
+index.html
+-
+<!doctype html>
+<html>
+	<body>
+			<h3>Stack of Pancakes</h3>
+		<p>Log in or sign up to view the best photos of<br>
+		pancakes acros the globe.</p>
+		<button> Login</button>
+		<br>
+		<button>Sign up</button>
+	<body>
+</html>
+...
+What's wrong with this code?
+-
+index.html
+-
+<html>
+	<body>
+		<button> Click Bait <button>
+	<body>
+</html>
+-
+The button's closing tag is missing a /
+...
+What does this code display>
+<!doctype html>
+<html>
+
+	<body>
+		<h1>Kit Kat</h1>
+		<button>Give me a break!</button>
+	</body>
+
+</html>
+-
+
+A button displaying Give mea break!
+...
+What happens when we place <em>Add to
+Cart</em> in between opening and closing
+button tags?
+
+A button with emphasized text displays
+on the webpage
+...
+What does this code display?
+-
+index.html
+-
+<!doctype html>
+<html>
+
+	<body>
+		<button>Sign up</button>
+		<button>Login</button>
+	</body>
+	
+</html>
+-
+one button next to another button
+...
+What is a tag for placing one button
+underneath another?
+
+<br>
+...
+Add the opening <button> tag.
+-
+index.html
+-
+<!doctype html>
+
+<html>
+	<body>
+		<h1>Follow us on Twitter</h1>
+		<button>Follow</button>
+	</body>
+	
+</html>
+...
+Display sign up on the button by coding
+between the opening and closing tags.
+-
+index.html
+-
+<html>
+	
+	<body>
+		<h1>Snapchat</h1>
+		<p>Sign up for a new account!</p>
+		<button>sign up</button>
+	</body>
+	
+</html>
+...
+Insert text inside strong tags to display
+Click Me! on the button.
+-
+index.html
+-
+<!doctype html>
+<html>
+
+	<body>
+		<h3>Watch Out</h3>
+		<p>Whatever you do, just don'y click 
+		the button<p/>
+		<button><strong>Click Me!</strong></button>
+	</body>
+	
+</html>
+...
+place the last button below the others.
+-
+index.html
+-
+<!doctype html?
+<html>
+
+	<body>
+		<p>Not the gumdrop buttons!</p>
+		<button>Gumdrop</button>
+		<br>
+		<button>Gumdrop</button>
+		<br>
+		<button>Gumdrop</button>
+	</body>
+	
+</html>
+...
+Display the share button next to the other
+button.
+-
+index.html
+-
+<!doctype html>
+<html>
+
+	<body>
+		<p>What a great time to be alive!</p>
+		<button>Like</button>
+		<button>Share</button>
+	</body>
+
+</html>
+...
+create a button that displays some
+emphasized text. Remember to include the 
+emphasis tag inside the <button> tag.
+-
+index.html
+-
+<!doctype html>
+<html>
+	
+	<body>
+		<h1>Hotel Sacher</h1>
+		<p>The cake at the Sacher hotel is
+		amongst the finest in all the lands.</p>
+		<button><em>ok</em></button>
+	</body>
+	
+</html>
+...
