@@ -1,0 +1,54 @@
+HTML is computer langguage that structures all the webpages on the internets.
+HTML code tells web browser how to display content like images, links, and text on a webpage.
+...
+Which computer langguage structures all webpages on the internet?
+HTML
+...
+Which one of the HTML tags created a button?
+<button>
+...
+ Add a <button> tag to your code.
+index.html
+-
+<button>
+...
+<button> is an opening tag. it tells the web browser we want to start displaying a button.
+index.html
+-
+<button>
+...
+what do you think comes after the opening tag <button>?
+the closing tag: </button>
+...
+code the button closing tag: </button?
+index.html
+-
+<button></button>
+...
+what do you think this code displays on a website?
+------------------------------------------------------
+index.html
+-
+<button>I'm Ready to code</button>
+--------------------------------------------------------
+A button with the text I.m Ready to Code
+...
+Code the closing tag.
+<button>Like</button>
+...
+Code a button that display Send.
+index.html
+-
+<button>Send</button>
+...
+add the missing symbol a closing tag.
+index.html
+-
+<button>Add Friend</button>
+...
+Code a button that displays Comment .
+index.html
+-
+<button>Comment</button>
+...
+
