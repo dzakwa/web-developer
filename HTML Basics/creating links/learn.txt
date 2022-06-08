@@ -1,0 +1,191 @@
+Lets's take a look at how links work on combine
+webpages into website. Click on Take a
+break! to use the link.
+...
+To start making a link, we add the text in
+between the <a> and </A> tags. this
+won't highlight the text yet.
+-
+index.html
+-
+<!doctype html>
+<html>
+
+	<body>
+		<a>Learn to code</a>
+	</body>
+	
+</html>
+...
+To link to a webpage, we add
+hre=" " along with a uniform resouce
+locator (URL)
+-
+index.html
+-
+<!doctype html>
+-
+<html>
+
+	<body>
+		<a href=https://getmimo.com>Learn to
+		code</a?
+	</body>
+	
+<html>
+...
+We link to a webpage by adding an = sign
+after the attribute and a URL as a value in
+between quotes.
+-
+index.html
+-
+<!doctype html>
+<hrml>
+
+	<body>
+		<a href="https://getmimo.com">Learn 
+		to Code</a>
+	</body>
+	
+</html>
+...
+href is an attribute. All attribute have
+two things in commmon: they provid extra 
+information and the go inside the opening
+tag.
+-
+index.html
+-
+<!doctype html>
+<hrml>
+
+	<body>
+		<a href="https://getmimo.com">Learn 
+		to Code</a>
+	</body>
+	
+</html>
+...
+What do links do?
+
+Link webpages to other webpages and 
+websites
+...
+What's wrong with this code?
+-
+index.html
+-
+<!doctype html>
+<html>
+
+	<body>
+		<a>Learn to code</a>
+	</body>
+	
+</html>
+-
+
+it has no href attribute
+...
+What happens when a visitor clicks on the link on
+this webpage?
+-
+<!doctype html>
+-
+<html>
+
+	<body>
+		<a href="https://stackoverflow.com
+		/">Where Developers Learn, Share, & 
+		Build Careers</a>
+	</body>
+
+</html>
+-
+
+The link directs  the user to another
+website
+...
+What are attributes for?
+
+Providing additional information about
+tags
+...
+Pick the opening tag that makes the link
+clickable.
+-
+index.html
+-
+<!doctype html>
+<html>
+
+	<body>
+		<a href="https://cars.com">Buy a car</
+		a>
+	</body>
+
+</html>
+...
+Add the attributes and its value so that clicking
+the link directs users to the Facebook website.
+-
+index.html
+-
+<!doctype html>
+<html>
+
+	<body>
+		<a href="https://facebook.com">Like us 
+		on Facebook</a>
+	</body>
+
+</html>
+...
+Put together the tag to direct users to the
+Snapchar website.
+-
+index.html
+-
+<!doctype html>
+<html>
+
+	<body>
+		<a href="https://www.snap.com">Open 
+		Snapchat</a>
+	</body>
+
+</html>
+...
+Code the href attribute.
+-
+index.html
+-
+<html>
+
+	<body>
+		<a href="https://abc.com">Watch some news</a>
+	</body>
+
+</html>
+...
+Code thow links with an empty href
+attribute and ensure there's a line break
+between them.
+-
+index.html
+-
+<!doctype html>
+<html>
+
+	<body>
+		<h3> Popular Places</h3>
+		<a href="https://antartica.com">
+		antartica</a>
+		<br>
+		<a href="https://kyoto.com">
+		kyoto</a>
+	</body>
+
+</html>
+...
